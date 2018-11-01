@@ -1,0 +1,121 @@
+
+ Average error [pixels]
+
+ 0.492726
+
+ Sum of squared errors
+
+ 1020.444496
+Error reduction by pose refinement: -1468.19
+Error reduction by distortion refinement: -46.69
+Error reduction by affine refinement: 0.00
+
+Iteration 1
+Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.
+> In polyfit (line 79)
+  In optimizefunction_JNBLANCHET_NSVP (line 81)
+  In oCametry_NSVP130 (line 85)
+The NSVP shift has failed to improve the model
+The POSE ESTIMATION REFINEMENT has effectively reduced the error by 21.0917%
+Sum of squared errors:  752.449198
+
+Iteration 2
+Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.
+> In polyfit (line 79)
+  In optimizefunction_JNBLANCHET_NSVP (line 81)
+  In oCametry_NSVP130 (line 85)
+The NSVP shift has failed to improve the model
+The POSE ESTIMATION REFINEMENT has effectively reduced the error by 6.4508%
+Sum of squared errors:  691.823849
+
+Iteration 3
+Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.
+> In polyfit (line 79)
+  In optimizefunction_JNBLANCHET_NSVP (line 81)
+  In oCametry_NSVP130 (line 85)
+The NSVP shift has failed to improve the model
+The POSE ESTIMATION REFINEMENT has effectively reduced the error by 2.6041%
+Sum of squared errors:  670.240013
+
+Iteration 4
+Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.
+> In polyfit (line 79)
+  In optimizefunction_JNBLANCHET_NSVP (line 81)
+  In oCametry_NSVP130 (line 85)
+The NSVP shift has failed to improve the model
+The POSE ESTIMATION REFINEMENT has effectively reduced the error by 0.8116%
+Sum of squared errors:  662.268487
+
+Iteration 5
+Warning: Polynomial is badly conditioned. Add points with distinct X values, reduce the degree of the polynomial, or try centering and scaling as described in HELP POLYFIT.
+> In polyfit (line 79)
+  In optimizefunction_JNBLANCHET_NSVP (line 81)
+  In oCametry_NSVP130 (line 85)
+The NSVP shift has failed to improve the model
+The POSE ESTIMATION REFINEMENT has effectively reduced the error by 1.1434%
+Sum of squared errors:  652.918088
+
+
+Camera model optimized
+ Average reprojection error computed for each chessboard [pixels]:
+
+ 0.56 ± 0.23
+ 0.31 ± 0.20
+ 0.38 ± 0.08
+ 0.26 ± 0.10
+ 0.43 ± 0.21
+ 0.48 ± 0.26
+ 0.36 ± 0.16
+ 0.41 ± 0.20
+ 0.33 ± 0.18
+ 0.26 ± 0.12
+ 0.40 ± 0.18
+ 0.39 ± 0.20
+ 0.35 ± 0.15
+ 0.34 ± 0.14
+ 0.42 ± 0.19
+ 0.55 ± 0.24
+ 0.38 ± 0.18
+ 0.38 ± 0.14
+ 0.38 ± 0.15
+ 0.31 ± 0.12
+ 0.37 ± 0.16
+ 0.45 ± 0.18
+ 0.31 ± 0.13
+ 0.26 ± 0.11
+ 0.31 ± 0.13
+ 0.32 ± 0.13
+ 0.95 ± 0.27
+ 0.73 ± 0.25
+ 0.67 ± 0.36
+ 0.33 ± 0.12
+ 0.68 ± 0.18
+ 0.32 ± 0.11
+ 0.19 ± 0.09
+ 0.18 ± 0.08
+ 0.25 ± 0.12
+ 0.20 ± 0.10
+ 0.23 ± 0.11
+ 1.27 ± 1.68
+ 0.24 ± 0.08
+
+ Average error [pixels]
+
+ 0.408770
+
+ Sum of squared errors
+
+ 652.918088
+Warning: Image is too big to fit on screen; displaying at 33%
+> In images.internal.initSize (line 71)
+  In imshow (line 336)
+  In optimizefunction_JNBLANCHET_NSVP (line 272)
+  In oCametry_NSVP130 (line 85)
+Error reduction by pose refinement: -294.80
+Error reduction by distortion refinement: -72.73
+Error reduction by affine refinement: 0.00
+Error reduction by NSVP step: 0.00
+Exporting models...
+Exporting video file for extrinsic...
+press any key to continue...
+
